@@ -79,7 +79,7 @@ echo "done"
 
 #install chromium
 echo "Installing Chromium"
-sudo snap install chromium
+sudo apt install chromium
 echo "done"
 
 echo "installing JSParser"
